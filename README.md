@@ -1,7 +1,10 @@
-## HMAC Generator
+# HMAC Generator
 
-Program generates HMAC token at /verify API endpoint
+Program generates HMAC token at API endpoint: /verify
 
-<h2>Usage</h2>
+### Usage
 To run this repo, type
-  npm start
+> npm start
+
+To run the unit test, type
+> npm test
